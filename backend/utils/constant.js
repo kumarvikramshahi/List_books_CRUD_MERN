@@ -1,0 +1,1 @@
+exports.DATABASE_CONNECTION_STRING = `mongodb+srv://kvsCusat:aads0cHSfuSzovmC@cluster0.tphmm.mongodb.net/Mock_test?retryWrites=true&w=majority`
